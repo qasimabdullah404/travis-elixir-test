@@ -1,0 +1,7 @@
+os: linux
+elixir: 1.11.3
+otp_release: '23.0'
+language: elixir
+dist: focal
+
+script: true
