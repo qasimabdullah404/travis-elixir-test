@@ -4,4 +4,5 @@ otp_release: '23.0'
 language: elixir
 dist: focal
 
-script: true
+script:
+  - echo hello
